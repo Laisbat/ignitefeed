@@ -1,4 +1,3 @@
-import React from "react";
 import styles from "./Sidebar.module.css";
 
 export function Sidebar() {
@@ -15,9 +14,7 @@ export function Sidebar() {
       </div>
 
       <footer>
-        <a href="#">
-          Editar seu perfil
-        </a>
+        <a href="#">Editar seu perfil</a>
       </footer>
     </aside>
   );
